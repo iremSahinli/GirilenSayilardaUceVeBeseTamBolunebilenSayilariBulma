@@ -10,7 +10,7 @@ while (i < 3)
     if (sayi % 3 == 0 && sayi % 5 == 0 && sayi % 15 == 0)
     {
         sayilar = sayi;
-        Console.WriteLine("Sayılar: " + sayilar + "Tam bölünebilmektedir.");
+        Console.WriteLine("Sayılar: " + sayilar + "Tam olarak bölünebilmektedir.");
        
 
     }
